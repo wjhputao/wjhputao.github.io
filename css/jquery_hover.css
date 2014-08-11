@@ -1,0 +1,36 @@
+
+body{position:relative;}
+a,img{border:0;}
+/* showpic */
+.showpic{width:990px;margin:50px auto;}
+.showpic a{display:block;width:241px;margin-right:7px;height:345px;float:left;text-indent:-9999px;position:relative;}
+.showpic a.picnav01{background:url(../images/Grapes/grape1.jpg) 0 0 no-repeat;}
+.showpic a.picnav02{background:url(../images/Grapes/grape2.jpg) 0 0 no-repeat;margin-right:6px;}
+.showpic a.picnav03{background:url(../images/Grapes/grape3.jpg) 0 0 no-repeat;}
+.showpic a.picnav04{background:url(../images/Grapes/grape4.jpg) 0 0 no-repeat;margin-right:0;}
+.showpic a.picnav05{background:url(../images/Grapes/grape5.jpg) 0 0 no-repeat;}
+.showpic a.picnav06{background:url(../images/Grapes/grape6.jpg) 0 0 no-repeat;margin-right:6px;}
+.showpic a.picnav07{background:url(../images/Grapes/grape7.jpg) 0 0 no-repeat;}
+.showpic a.picnav08{background:url(../images/Grapes/grape8.jpg) 0 0 no-repeat;margin-right:0;}
+.showpic a.picnav09{background:url(../images/Grapes/grape9.jpg) 0 0 no-repeat;}
+.showpic a.picnav10{background:url(../images/Grapes/grape10.jpg) 0 0 no-repeat;margin-right:6px;}
+.showpic a.picnav11{background:url(../images/Grapes/grape11.jpg) 0 0 no-repeat;}
+.showpic a.picnav12{background:url(../images/Grapes/grape12.jpg) 0 0 no-repeat;margin-right:0;}
+.showpic a.picnav13{background:url(../images/Grapes/grape13.jpg) 0 0 no-repeat;}
+.showpic a.picnav14{background:url(../images/Grapes/grape14.jpg) 0 0 no-repeat;margin-right:6px;}
+.showpic a span{position:absolute;top:0;left:0;width:241px;height:345px;display:block;cursor:pointer;display:none;}
+.showpic a.picnav01 span{background:url(../images/Grapes/grape1r.jpg) 0 0 no-repeat;}
+.showpic a.picnav02 span{background:url(../images/Grapes/grape2r.jpg) 0 0 no-repeat;}
+.showpic a.picnav03 span{background:url(../images/Grapes/grape3r.jpg) 0 0 no-repeat;}
+.showpic a.picnav04 span{background:url(../images/Grapes/grape4r.jpg) 0 0 no-repeat;margin-right:0;}
+.showpic a.picnav05 span{background:url(../images/Grapes/grape5r.jpg) 0 0 no-repeat;}
+.showpic a.picnav06 span{background:url(../images/Grapes/grape6r.jpg) 0 0 no-repeat;}
+.showpic a.picnav07 span{background:url(../images/Grapes/grape7r.jpg) 0 0 no-repeat;}
+.showpic a.picnav08 span{background:url(../images/Grapes/grape8r.jpg) 0 0 no-repeat;margin-right:0;}
+.showpic a.picnav09 span{background:url(../images/Grapes/grape9r.jpg) 0 0 no-repeat;}
+.showpic a.picnav10 span{background:url(../images/Grapes/grape10r.jpg) 0 0 no-repeat;}
+.showpic a.picnav11 span{background:url(../images/Grapes/grape11r.jpg) 0 0 no-repeat;}
+.showpic a.picnav12 span{background:url(../images/Grapes/grape12r.jpg) 0 0 no-repeat;margin-right:0;}
+.showpic a.picnav13 span{background:url(../images/Grapes/grape13r.jpg) 0 0 no-repeat;}
+.showpic a.picnav14 span{background:url(../images/Grapes/grape14r.jpg) 0 0 no-repeat;}
+.showpic.showpic_clear{height:10px;width:100%;dispaly:block;}
